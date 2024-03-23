@@ -1,0 +1,25 @@
+Prostate data info
+
+Predictors (columns 1--8)
+
+lcavol
+lweight
+age
+lbph
+svi
+lcp
+gleason
+pgg45
+
+outcome (column 9)
+
+lpsa
+
+train/test indicator (column 10)
+
+This last column indicates which 67 observations were used as the 
+"training set" and which 30 as the test set.
+
+The variables are log cancer volume (lcavol), log prostate
+weight (lweight), age, log of the amount of benign prostatic hyperplasia
+(lbph), seminal vesicle invasion (svi), log of capsular penetration (lcp)
